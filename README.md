@@ -9,8 +9,7 @@ With the increase in large models, segmentation foundation models have greatly i
 
 - Clone this repository:
 ```bash
-git clone https://github.com/
-cd c
+https://github.com/codehxj/Segmenting-Low-Quality-Medical-Images-via-an-Adapter/
 ```
 
 The code is stable using Python 3.8.16, Pytorch 1.7.0
