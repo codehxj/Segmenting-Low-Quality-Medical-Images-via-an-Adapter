@@ -9,17 +9,10 @@ With the increase in large models, segmentation foundation models have greatly i
 
 - Clone this repository:
 ```bash
-https://github.com/codehxj/Segmenting-Low-Quality-Medical-Images-via-an-Adapter/
+git clone https://github.com/codehxj/Segmenting-Low-Quality-Medical-Images-via-an-Adapter/
 ```
 
 The code is stable using Python 3.8.16, Pytorch 1.7.0
-
-To install all the dependencies using conda:
-
-```bash
-conda env create -f environment.yml
-conda activate samadapter
-```
 
 To install all the dependencies using pip:
 
